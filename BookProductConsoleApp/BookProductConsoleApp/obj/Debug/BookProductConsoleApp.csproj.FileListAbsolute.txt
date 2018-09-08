@@ -1,0 +1,14 @@
+C:\Users\ssrivastava\source\repos\BookProductConsoleApp\BookProductConsoleApp\obj\Debug\BookProductConsoleApp.csprojAssemblyReference.cache
+C:\Users\ssrivastava\source\repos\BookProductConsoleApp\BookProductConsoleApp\obj\Debug\BookProductConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\source\repos\BookProductConsoleApp\BookProductConsoleApp\bin\Debug\BookProductConsoleApp.exe.config
+C:\Users\ssrivastava\source\repos\BookProductConsoleApp\BookProductConsoleApp\bin\Debug\BookProductConsoleApp.exe
+C:\Users\ssrivastava\source\repos\BookProductConsoleApp\BookProductConsoleApp\bin\Debug\BookProductConsoleApp.pdb
+C:\Users\ssrivastava\source\repos\BookProductConsoleApp\BookProductConsoleApp\obj\Debug\BookProductConsoleApp.exe
+C:\Users\ssrivastava\source\repos\BookProductConsoleApp\BookProductConsoleApp\obj\Debug\BookProductConsoleApp.pdb
+C:\Users\ssrivastava\Desktop\BookProductConsoleApp\BookProductConsoleApp\BookProductConsoleApp\bin\Debug\BookProductConsoleApp.exe.config
+C:\Users\ssrivastava\Desktop\BookProductConsoleApp\BookProductConsoleApp\BookProductConsoleApp\bin\Debug\BookProductConsoleApp.exe
+C:\Users\ssrivastava\Desktop\BookProductConsoleApp\BookProductConsoleApp\BookProductConsoleApp\bin\Debug\BookProductConsoleApp.pdb
+C:\Users\ssrivastava\Desktop\BookProductConsoleApp\BookProductConsoleApp\BookProductConsoleApp\obj\Debug\BookProductConsoleApp.csprojAssemblyReference.cache
+C:\Users\ssrivastava\Desktop\BookProductConsoleApp\BookProductConsoleApp\BookProductConsoleApp\obj\Debug\BookProductConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\Desktop\BookProductConsoleApp\BookProductConsoleApp\BookProductConsoleApp\obj\Debug\BookProductConsoleApp.exe
+C:\Users\ssrivastava\Desktop\BookProductConsoleApp\BookProductConsoleApp\BookProductConsoleApp\obj\Debug\BookProductConsoleApp.pdb
